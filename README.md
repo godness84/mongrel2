@@ -32,9 +32,9 @@ Features
 Download
 --------
 
-Mongrel2 is now 1.8.0 as of *Thu Jul 26 06:06 GMT 2012*: 
+mongrel2 is now v1.11.0 as of *Thu Dec 31 2015*:
 
-* [mongrel2-1.8.0.tar.bz2](https://github.com/zedshaw/mongrel2/tarball/v1.8.0) MD5: 4bca0d299e7e77efa4c674bc5877dfd0
+* [mongrel2-v1.11.0.tar.bz2](https://github.com/mongrel2/mongrel2/releases/v1.11.0/download/mongrel2-v1.11.0.tar.bz2)
 
 Documentation
 -------------
